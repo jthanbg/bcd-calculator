@@ -1,0 +1,2 @@
+# bcd-calculator
+A calculator in C that performs arithmetic using Binary-Coded Decimal (BCD). Each decimal digit is stored separately in an array, and operations are done digit by digit from the least significant to the most significant, handling carries as needed. This approach avoids complex decimal-to-binary conversions.
